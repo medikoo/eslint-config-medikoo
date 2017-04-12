@@ -3,7 +3,7 @@
 
 At current stage it experimentally derives from `eslint:all`.
 
-It's dedicated for ES2015+ projects, for ES5 configuration (which derives from that one) see [eslint-config-medikoo-es5](http://github.com/medikoo/eslint-config-medikoo-es5)
+It's dedicated for ES2015+ projects, for ES5 configuration (which derives from this one) see [eslint-config-medikoo-es5](http://github.com/medikoo/eslint-config-medikoo-es5)
 
 ### Installation
 
