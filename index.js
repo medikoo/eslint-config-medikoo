@@ -2,7 +2,7 @@
 
 module.exports = {
 	extends: "eslint:all",
-	env: { commonjs: true },
+	env: { commonjs: true, es6: true },
 	rules: {
 		"capitalized-comments": ["error", "always", { ignoreConsecutiveComments: true }],
 		"comma-style": ["error", "last", { exceptions: { VariableDeclaration: true } }],
