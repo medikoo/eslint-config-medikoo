@@ -9,4 +9,4 @@ It's dedicated for ES2015+ projects, for ES5 configuration (which derives from t
 
 	$ npm install eslint-config-medikoo --save-dev
 
-Add `"extends": "medikoo` to ESlint package configuration.
+Add `"extends": "medikoo"` to ESlint package configuration.
