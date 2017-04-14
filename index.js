@@ -30,6 +30,7 @@ module.exports = {
 		"no-param-reassign": "off",
 		"no-plusplus": "off",
 		"no-process-env": "off",
+		"no-process-exit": "off",
 		"no-return-assign": "off",
 		"no-shadow": ["error", { builtinGlobals: true }],
 		"no-tabs": "off",
