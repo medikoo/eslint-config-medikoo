@@ -33,6 +33,7 @@ module.exports = {
 		"no-process-exit": "off",
 		"no-return-assign": "off",
 		"no-shadow": ["error", { builtinGlobals: true }],
+		"no-sync": "off",
 		"no-tabs": "off",
 		"no-ternary": "off",
 		"no-undef": ["error", { typeof: false }],
