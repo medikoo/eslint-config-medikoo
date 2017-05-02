@@ -10,7 +10,7 @@ module.exports = {
 		"dot-location": ["error", "property"],
 		"func-names": ["error", "never"],
 		"global-require": "off",
-		"id-length": ["error", { exceptions: ["e", "t"] }],
+		"id-length": ["error", { exceptions: ["d", "e", "t"] }],
 		"indent": ["error", "tab"],
 		"init-declarations": "off",
 		"line-comment-position": "off",
