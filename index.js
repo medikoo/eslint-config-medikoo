@@ -22,6 +22,7 @@ module.exports = {
 		"no-empty": ["error", { allowEmptyCatch: true }],
 		"no-extra-parens": ["error", "all", { nestedBinaryExpressions: false }],
 		"no-inline-comments": "off",
+		"no-invalid-this": "off",
 		"no-magic-numbers": ["error", { ignore: [-1, 0, 1, 2] }],
 		"no-mixed-requires": "off",
 		"no-mixed-spaces-and-tabs": ["error", "smart-tabs"],
