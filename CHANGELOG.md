@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.5.0"></a>
+# [1.5.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.4.0...v1.5.0) (2017-05-08)
+
+
+### Features
+
+* disable `no-invalid-this` rule ([eb8d29e](https://github.com/medikoo/eslint-config-medikoo/commit/eb8d29e))
+
+
+
 <a name="1.4.0"></a>
 # [1.4.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.3.0...v1.4.0) (2017-05-02)
 
