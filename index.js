@@ -19,6 +19,7 @@ module.exports = {
 		"max-statements": ["error", 20, { ignoreTopLevelFunctions: true }],
 		"multiline-ternary": "off",
 		"newline-before-return": "off",
+		"no-continue": "off",
 		"no-empty": ["error", { allowEmptyCatch: true }],
 		"no-extra-parens": ["error", "all", { nestedBinaryExpressions: false }],
 		"no-inline-comments": "off",
