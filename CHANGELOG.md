@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.6.0"></a>
+# [1.6.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.5.0...v1.6.0) (2017-05-08)
+
+
+### Features
+
+* disable `no-undefined` rule ([9805466](https://github.com/medikoo/eslint-config-medikoo/commit/9805466))
+
+
+
 <a name="1.5.0"></a>
 # [1.5.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.4.0...v1.5.0) (2017-05-08)
 
