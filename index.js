@@ -38,6 +38,7 @@ module.exports = {
 		"no-tabs": "off",
 		"no-ternary": "off",
 		"no-undef": ["error", { typeof: false }],
+		"no-undefined": "off",
 		"no-underscore-dangle": "off",
 		"no-var": "off",
 		"no-warning-comments": ["error", { terms: ["fixme", "xxx"], location: "start" }],
