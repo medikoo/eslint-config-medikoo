@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.7.0"></a>
+# [1.7.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.6.0...v1.7.0) (2017-05-08)
+
+
+### Features
+
+* add 'a' and 'T' to allowed var names ([82ffbfc](https://github.com/medikoo/eslint-config-medikoo/commit/82ffbfc))
+
+
+
 <a name="1.6.0"></a>
 # [1.6.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.5.0...v1.6.0) (2017-05-08)
 
