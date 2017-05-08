@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.9.0"></a>
+# [1.9.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.8.0...v1.9.0) (2017-05-08)
+
+
+### Features
+
+* add `i` to accepted identifiers ([2223d9f](https://github.com/medikoo/eslint-config-medikoo/commit/2223d9f))
+
+
+
 <a name="1.8.0"></a>
 # [1.8.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.7.0...v1.8.0) (2017-05-08)
 
