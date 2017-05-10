@@ -11,7 +11,7 @@ module.exports = {
 		"func-names": ["error", "never"],
 		"global-require": "off",
 		"id-length": ["error", { exceptions: ["a", "d", "e", "i", "t", "T"] }],
-		"indent": ["error", "tab"],
+		"indent": ["error", "tab", { "SwitchCase": 1 }],
 		"init-declarations": "off",
 		"line-comment-position": "off",
 		"max-len": ["error", 100],
