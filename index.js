@@ -51,6 +51,7 @@ module.exports = {
 				location: "start"
 			}
 		],
+		"object-curly-newline": "off",
 		"object-curly-spacing": ["error", "always"],
 		"object-property-newline": ["error", { allowMultiplePropertiesPerLine: true }],
 		"one-var": "off",
