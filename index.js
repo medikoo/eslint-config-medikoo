@@ -2,7 +2,10 @@
 
 module.exports = {
 	extends: "eslint:all",
-	env: { commonjs: true, es6: true },
+	env: {
+		commonjs: true,
+		es6: true
+	},
 	rules: {
 		"capitalized-comments": ["error", "always", { ignoreConsecutiveComments: true }],
 		"comma-style": ["error", "last", { exceptions: { VariableDeclaration: true } }],
@@ -11,7 +14,7 @@ module.exports = {
 		"func-names": ["error", "never"],
 		"global-require": "off",
 		"id-length": ["error", { exceptions: ["a", "d", "e", "i", "t", "T"] }],
-		"indent": ["error", "tab", { "SwitchCase": 1 }],
+		"indent": ["error", "tab", { SwitchCase: 1 }],
 		"init-declarations": "off",
 		"line-comment-position": "off",
 		"max-len": ["error", 100],
@@ -41,7 +44,13 @@ module.exports = {
 		"no-undef": ["error", { typeof: false }],
 		"no-undefined": "off",
 		"no-underscore-dangle": "off",
-		"no-warning-comments": ["error", { terms: ["fixme", "xxx"], location: "start" }],
+		"no-warning-comments": [
+			"error",
+			{
+				terms: ["fixme", "xxx"],
+				location: "start"
+			}
+		],
 		"object-curly-spacing": ["error", "always"],
 		"object-property-newline": ["error", { allowMultiplePropertiesPerLine: true }],
 		"one-var": "off",

@@ -7,6 +7,18 @@
     "eslint-config",
     "eslint"
   ],
+  "eslintConfig": {
+    "extends": "eslint:recommended",
+    "env": {
+      "commonjs": true
+    },
+    "rules": {
+      "quote-props": [
+        "error",
+        "consistent-as-needed"
+      ]
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/medikoo/eslint-config-medikoo.git"
