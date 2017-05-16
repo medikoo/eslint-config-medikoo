@@ -12,6 +12,7 @@ module.exports = {
 		"comma-style": ["error", "last", { exceptions: { VariableDeclaration: true } }],
 		"curly": ["error", "multi-line"],
 		"dot-location": ["error", "property"],
+		"func-name-matching": "off",
 		"func-names": ["error", "never"],
 		"global-require": "off",
 		"id-length": ["error", { exceptions: ["a", "d", "e", "i", "t", "T"] }],
