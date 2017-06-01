@@ -31,7 +31,7 @@ module.exports = {
 		"no-extra-parens": ["error", "all", { nestedBinaryExpressions: false }],
 		"no-inline-comments": "off",
 		"no-invalid-this": "off",
-		"no-magic-numbers": ["error", { ignore: [-1, 0, 1, 2] }],
+		"no-magic-numbers": "off",
 		"no-mixed-requires": "off",
 		"no-mixed-spaces-and-tabs": ["error", "smart-tabs"],
 		"no-multi-assign": "off",
