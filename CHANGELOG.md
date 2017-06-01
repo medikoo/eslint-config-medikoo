@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.17.0"></a>
+# [1.17.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.16.0...v1.17.0) (2017-06-01)
+
+
+### Features
+
+* turn off no-magic-numbers ([ca13ab9](https://github.com/medikoo/eslint-config-medikoo/commit/ca13ab9))
+
+
+
 <a name="1.16.0"></a>
 # [1.16.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.15.0...v1.16.0) (2017-05-25)
 
