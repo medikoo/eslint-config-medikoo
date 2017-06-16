@@ -49,6 +49,7 @@ module.exports = {
 		"no-undef": ["error", { typeof: false }],
 		"no-undefined": "off",
 		"no-underscore-dangle": "off",
+		"no-unused-vars": ["error", { argsIgnorePattern: "[iI]gnored" }],
 		"no-warning-comments": [
 			"error",
 			{
