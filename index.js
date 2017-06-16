@@ -7,6 +7,7 @@ module.exports = {
 		es6: true
 	},
 	rules: {
+		"array-element-newline": "off",
 		"arrow-parens": ["error", "as-needed"],
 		"capitalized-comments": ["error", "always", { ignoreConsecutiveComments: true }],
 		"comma-style": ["error", "last", { exceptions: { VariableDeclaration: true } }],
