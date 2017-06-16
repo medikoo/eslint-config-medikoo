@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.20.0"></a>
+# [1.20.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.19.0...v1.20.0) (2017-06-16)
+
+
+### Features
+
+* turn off array-element-newline rule ([d2f5fad](https://github.com/medikoo/eslint-config-medikoo/commit/d2f5fad))
+
+
+
 <a name="1.19.0"></a>
 # [1.19.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.18.0...v1.19.0) (2017-06-16)
 
