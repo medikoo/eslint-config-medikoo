@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.19.0"></a>
+# [1.19.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.18.0...v1.19.0) (2017-06-16)
+
+
+### Features
+
+* turn off 'indent' rule (handled by Prettier) ([68e791a](https://github.com/medikoo/eslint-config-medikoo/commit/68e791a))
+
+
+
 <a name="1.18.0"></a>
 # [1.18.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.17.0...v1.18.0) (2017-06-01)
 
