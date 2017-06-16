@@ -7,6 +7,16 @@
     "eslint-config",
     "eslint"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/medikoo/eslint-config-medikoo.git"
+  },
+  "peerDependencies": {
+    "eslint": ">=0.8.0"
+  },
+  "devDependencies": {
+    "eslint": "4"
+  },
   "eslintConfig": {
     "extends": "eslint:recommended",
     "env": {
@@ -18,13 +28,6 @@
         "consistent-as-needed"
       ]
     }
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/medikoo/eslint-config-medikoo.git"
-  },
-  "peerDependencies": {
-    "eslint": ">=0.8.0"
   },
   "license": "MIT"
 }
