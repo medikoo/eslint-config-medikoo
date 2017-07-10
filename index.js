@@ -39,6 +39,7 @@ module.exports = {
 		],
 		"no-inline-comments": "off",
 		"no-invalid-this": "off",
+		"no-labels": "off",
 		"no-magic-numbers": "off",
 		"no-mixed-requires": "off",
 		"no-mixed-spaces-and-tabs": ["error", "smart-tabs"],
