@@ -41,6 +41,18 @@ module.exports = {
 		"no-invalid-this": "off",
 		"no-labels": "off",
 		"no-magic-numbers": "off",
+		"no-mixed-operators": [
+			"error",
+			{
+				groups: [
+					["&", "|", "^", "~", "<<", ">>", ">>>"],
+					["==", "!=", "===", "!==", ">", ">=", "<", "<="],
+					["&&", "||"],
+					["in", "instanceof"]
+				],
+				allowSamePrecedence: true
+			}
+		],
 		"no-mixed-requires": "off",
 		"no-mixed-spaces-and-tabs": ["error", "smart-tabs"],
 		"no-multi-assign": "off",
