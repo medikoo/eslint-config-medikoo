@@ -32,7 +32,11 @@ module.exports = {
 		"no-confusing-arrow": "off",
 		"no-continue": "off",
 		"no-empty": ["error", { allowEmptyCatch: true }],
-		"no-extra-parens": ["error", "all", { nestedBinaryExpressions: false }],
+		"no-extra-parens": [
+			"error",
+			"all",
+			{ nestedBinaryExpressions: false, conditionalAssign: false }
+		],
 		"no-inline-comments": "off",
 		"no-invalid-this": "off",
 		"no-magic-numbers": "off",
