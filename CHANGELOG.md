@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.22.0"></a>
+# [1.22.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.21.0...v1.22.0) (2017-07-10)
+
+
+### Features
+
+* allow index short vars ([44392dd](https://github.com/medikoo/eslint-config-medikoo/commit/44392dd))
+
+
+
 <a name="1.21.0"></a>
 # [1.21.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.20.0...v1.21.0) (2017-06-16)
 
