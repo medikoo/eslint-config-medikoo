@@ -18,6 +18,7 @@ module.exports = {
 		"func-name-matching": "off",
 		"func-names": ["error", "never"],
 		"global-require": "off",
+		"guard-for-in": "off",
 		"id-length": ["error", { exceptions: ["a", "d", "e", "i", "j", "k", "t", "T"] }],
 		"indent": "off",
 		"init-declarations": "off",
