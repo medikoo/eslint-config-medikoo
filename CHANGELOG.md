@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.23.0"></a>
+# [1.23.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.22.0...v1.23.0) (2017-07-10)
+
+
+### Features
+
+* allow "Context" as this variable ([811c519](https://github.com/medikoo/eslint-config-medikoo/commit/811c519))
+* do not punish parens around cond assign ([2df9f11](https://github.com/medikoo/eslint-config-medikoo/commit/2df9f11))
+* fine tune no-mixed-operators ([e49a2f8](https://github.com/medikoo/eslint-config-medikoo/commit/e49a2f8))
+* turn off accessor-pairs rule ([a122f01](https://github.com/medikoo/eslint-config-medikoo/commit/a122f01))
+* turn off guard-for-in ([0357a87](https://github.com/medikoo/eslint-config-medikoo/commit/0357a87))
+* turn off no-labels rule ([b4659c8](https://github.com/medikoo/eslint-config-medikoo/commit/b4659c8))
+
+
+
 <a name="1.22.0"></a>
 # [1.22.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.21.0...v1.22.0) (2017-07-10)
 
