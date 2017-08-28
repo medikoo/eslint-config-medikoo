@@ -12,7 +12,7 @@ module.exports = {
 		"arrow-parens": ["error", "as-needed"],
 		"capitalized-comments": ["error", "always", { ignoreConsecutiveComments: true }],
 		"comma-style": ["error", "last", { exceptions: { VariableDeclaration: true } }],
-		"consistent-this": ["error", "context", "Context"],
+		"consistent-this": "off",
 		"curly": ["error", "multi-line"],
 		"dot-location": ["error", "property"],
 		"func-name-matching": "off",
