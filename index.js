@@ -17,6 +17,7 @@ module.exports = {
 		"dot-location": ["error", "property"],
 		"func-name-matching": "off",
 		"func-names": ["error", "never"],
+		"function-paren-newline": ["error", "consistent"],
 		"global-require": "off",
 		"guard-for-in": "off",
 		"id-length": ["error", { exceptions: ["a", "d", "e", "i", "j", "k", "t", "T"] }],
