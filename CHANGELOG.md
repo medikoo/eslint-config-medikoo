@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.24.1"></a>
+## [1.24.1](https://github.com/medikoo/eslint-config-medikoo/compare/v1.24.0...v1.24.1) (2017-09-04)
+
+
+### Bug Fixes
+
+* introduce configuration for function-paren-newline ([e7e1a53](https://github.com/medikoo/eslint-config-medikoo/commit/e7e1a53))
+
+
+
 <a name="1.24.0"></a>
 # [1.24.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.23.0...v1.24.0) (2017-08-28)
 
