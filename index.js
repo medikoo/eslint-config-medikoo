@@ -85,6 +85,10 @@ module.exports = {
 		"one-var-declaration-per-line": "off",
 		"padded-blocks": "off",
 		"quote-props": ["error", "consistent-as-needed"],
+		"space-before-function-paren": [
+			"error",
+			{ anonymous: "always", asyncArrow: "always", named: "never" }
+		],
 		"sort-keys": "off",
 		"sort-vars": "off",
 		"template-curly-spacing": ["error", "always"],
