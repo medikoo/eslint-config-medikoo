@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.25.0"></a>
+# [1.25.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.24.1...v1.25.0) (2017-09-06)
+
+
+### Features
+
+* configure space-before-function-paren ([b269d12](https://github.com/medikoo/eslint-config-medikoo/commit/b269d12))
+
+
+
 <a name="1.24.1"></a>
 ## [1.24.1](https://github.com/medikoo/eslint-config-medikoo/compare/v1.24.0...v1.24.1) (2017-09-04)
 
