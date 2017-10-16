@@ -11,6 +11,7 @@ module.exports = {
 		"array-element-newline": "off",
 		"arrow-parens": ["error", "as-needed"],
 		"capitalized-comments": ["error", "always", { ignoreConsecutiveComments: true }],
+		"class-methods-use-this": "off",
 		"comma-style": ["error", "last", { exceptions: { VariableDeclaration: true } }],
 		"consistent-this": "off",
 		"curly": ["error", "multi-line"],
