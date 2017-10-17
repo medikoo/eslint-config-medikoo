@@ -28,6 +28,7 @@ module.exports = {
 		"max-len": ["error", 100],
 		"max-params": "off",
 		"max-statements": ["error", 20, { ignoreTopLevelFunctions: true }],
+		"multiline-comment-style": "off",
 		"multiline-ternary": "off",
 		"newline-before-return": "off",
 		"newline-per-chained-call": "off",
