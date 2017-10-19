@@ -25,6 +25,7 @@ module.exports = {
 		"indent": "off",
 		"init-declarations": "off",
 		"line-comment-position": "off",
+		"lines-between-class-members": "off",
 		"max-len": ["error", 100],
 		"max-params": "off",
 		"max-statements": ["error", 20, { ignoreTopLevelFunctions: true }],
