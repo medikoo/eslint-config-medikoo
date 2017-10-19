@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.27.0"></a>
+# [1.27.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.26.1...v1.27.0) (2017-10-19)
+
+
+### Features
+
+* do not force lines between class members ([c660086](https://github.com/medikoo/eslint-config-medikoo/commit/c660086))
+
+
+
 <a name="1.26.1"></a>
 ## [1.26.1](https://github.com/medikoo/eslint-config-medikoo/compare/v1.26.0...v1.26.1) (2017-10-17)
 
