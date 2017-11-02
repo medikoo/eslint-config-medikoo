@@ -25,7 +25,7 @@ module.exports = {
 		"function-paren-newline": ["error", "consistent"],
 		"global-require": "off",
 		"guard-for-in": "off",
-		"id-length": ["error", { exceptions: ["a", "d", "e", "i", "j", "k", "t", "T"] }],
+		"id-length": ["error", { exceptions: ["_", "a", "d", "e", "i", "j", "k", "t", "T"] }],
 		"indent": "off",
 		"init-declarations": "off",
 		"line-comment-position": "off",
