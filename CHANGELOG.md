@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.29.0"></a>
+# [1.29.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.28.0...v1.29.0) (2017-11-02)
+
+
+### Features
+
+* add "_" i18n method name to accepted ids ([40dbc25](https://github.com/medikoo/eslint-config-medikoo/commit/40dbc25))
+
+
+
 <a name="1.28.0"></a>
 # [1.28.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.27.0...v1.28.0) (2017-10-25)
 
