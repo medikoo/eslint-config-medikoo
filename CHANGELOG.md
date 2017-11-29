@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.30.0"></a>
+# [1.30.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.29.0...v1.30.0) (2017-11-29)
+
+
+### Features
+
+* turn off implicit-arrow-linebreak rule ([b89df24](https://github.com/medikoo/eslint-config-medikoo/commit/b89df24))
+
+
+
 <a name="1.29.0"></a>
 # [1.29.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.28.0...v1.29.0) (2017-11-02)
 
