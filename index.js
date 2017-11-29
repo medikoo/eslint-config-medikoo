@@ -27,6 +27,7 @@ module.exports = {
 		"guard-for-in": "off",
 		"id-length": ["error", { exceptions: ["_", "a", "d", "e", "i", "j", "k", "t", "T"] }],
 		"indent": "off",
+		"implicit-arrow-linebreak": "off",
 		"init-declarations": "off",
 		"line-comment-position": "off",
 		"lines-between-class-members": "off",
