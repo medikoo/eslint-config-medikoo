@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.31.0"></a>
+# [1.31.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.30.0...v1.31.0) (2017-12-13)
+
+
+### Features
+
+* turn off "callback-return" ([45f95ed](https://github.com/medikoo/eslint-config-medikoo/commit/45f95ed))
+
+
+
 <a name="1.30.0"></a>
 # [1.30.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.29.0...v1.30.0) (2017-11-29)
 
