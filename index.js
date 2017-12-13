@@ -10,6 +10,7 @@ module.exports = {
 		"accessor-pairs": "off",
 		"array-element-newline": "off",
 		"arrow-parens": ["error", "as-needed"],
+		"callback-return": "off",
 		"capitalized-comments": [
 			"error",
 			"always",
