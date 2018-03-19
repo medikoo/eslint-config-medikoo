@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.32.0"></a>
+# [1.32.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.31.0...v1.32.0) (2018-03-19)
+
+
+### Features
+
+* turn off no-control-regex ([90fa8ea](https://github.com/medikoo/eslint-config-medikoo/commit/90fa8ea))
+
+
+
 <a name="1.31.0"></a>
 # [1.31.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.30.0...v1.31.0) (2017-12-13)
 
