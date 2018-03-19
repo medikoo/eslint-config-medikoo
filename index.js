@@ -41,6 +41,7 @@ module.exports = {
 		"newline-per-chained-call": "off",
 		"no-confusing-arrow": "off",
 		"no-continue": "off",
+		"no-control-regex": "off",
 		"no-empty": ["error", { allowEmptyCatch: true }],
 		"no-extra-parens": [
 			"error",
