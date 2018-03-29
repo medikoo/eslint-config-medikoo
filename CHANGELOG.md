@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.33.0"></a>
+# [1.33.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.32.0...v1.33.0) (2018-03-29)
+
+
+### Features
+
+* turn off array-bracket-newline ([ea4e3ff](https://github.com/medikoo/eslint-config-medikoo/commit/ea4e3ff))
+
+
+
 <a name="1.32.0"></a>
 # [1.32.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.31.0...v1.32.0) (2018-03-19)
 
