@@ -8,6 +8,7 @@ module.exports = {
 	},
 	rules: {
 		"accessor-pairs": "off",
+		"array-bracket-newline": "off",
 		"array-element-newline": "off",
 		"arrow-parens": ["error", "as-needed"],
 		"callback-return": "off",
