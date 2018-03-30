@@ -33,7 +33,7 @@ module.exports = {
 		"init-declarations": "off",
 		"line-comment-position": "off",
 		"lines-between-class-members": "off",
-		"max-len": ["error", 100],
+		"max-len": ["error", 100, { ignoreUrls: true }],
 		"max-params": "off",
 		"max-statements": ["error", 20, { ignoreTopLevelFunctions: true }],
 		"multiline-comment-style": "off",
