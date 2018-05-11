@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.34.0"></a>
+# [1.34.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.33.0...v1.34.0) (2018-05-11)
+
+
+### Features
+
+* ignore long urls in max-len check ([f97dd75](https://github.com/medikoo/eslint-config-medikoo/commit/f97dd75))
+* reduce style rules ([a435b48](https://github.com/medikoo/eslint-config-medikoo/commit/a435b48))
+
+
+
 <a name="1.33.0"></a>
 # [1.33.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.32.0...v1.33.0) (2018-03-29)
 
