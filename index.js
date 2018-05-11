@@ -11,6 +11,7 @@ module.exports = {
 		"array-bracket-newline": "off",
 		"array-element-newline": "off",
 		"arrow-parens": ["error", "as-needed"],
+		"brace-style": "off",
 		"callback-return": "off",
 		"capitalized-comments": [
 			"error",
@@ -36,6 +37,7 @@ module.exports = {
 		"max-len": ["error", 100, { ignoreUrls: true }],
 		"max-params": "off",
 		"max-statements": ["error", 20, { ignoreTopLevelFunctions: true }],
+		"max-statements-per-line": ["error", { max: 2 }],
 		"multiline-comment-style": "off",
 		"multiline-ternary": "off",
 		"newline-before-return": "off",
