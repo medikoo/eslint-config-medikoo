@@ -13,11 +13,7 @@ module.exports = {
 		"arrow-parens": ["error", "as-needed"],
 		"brace-style": "off",
 		"callback-return": "off",
-		"capitalized-comments": [
-			"error",
-			"always",
-			{ ignoreConsecutiveComments: true, ignoreInlineComments: true }
-		],
+		"capitalized-comments": "off",
 		"class-methods-use-this": "off",
 		"comma-style": ["error", "last", { exceptions: { VariableDeclaration: true } }],
 		"consistent-this": "off",
