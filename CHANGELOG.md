@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.35.0"></a>
+# [1.35.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.34.0...v1.35.0) (2018-05-29)
+
+
+### Features
+
+* turn off comments capitalization ([41eaeea](https://github.com/medikoo/eslint-config-medikoo/commit/41eaeea))
+
+
+
 <a name="1.34.0"></a>
 # [1.34.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.33.0...v1.34.0) (2018-05-11)
 
