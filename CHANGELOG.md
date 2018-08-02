@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.37.0"></a>
+# [1.37.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.36.0...v1.37.0) (2018-08-02)
+
+
+### Bug Fixes
+
+* ensure ES2015 globals ([1028269](https://github.com/medikoo/eslint-config-medikoo/commit/1028269))
+
+
+### Features
+
+* do not force ES2018 yet ([1468303](https://github.com/medikoo/eslint-config-medikoo/commit/1468303))
+
+
+
 <a name="1.36.0"></a>
 # [1.36.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.35.0...v1.36.0) (2018-08-02)
 
