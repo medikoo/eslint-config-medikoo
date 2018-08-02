@@ -3,7 +3,8 @@
 module.exports = {
 	extends: "eslint:all",
 	env: {
-		commonjs: true
+		commonjs: true,
+		es6: true // Register ES2015 globals
 	},
 	parserOptions: {
 		ecmaVersion: 2017
