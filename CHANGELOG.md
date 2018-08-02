@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.36.0"></a>
+# [1.36.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.35.0...v1.36.0) (2018-08-02)
+
+
+### Features
+
+* bump ecmaVersion ([54f1088](https://github.com/medikoo/eslint-config-medikoo/commit/54f1088))
+* special rules for tests ([6d41841](https://github.com/medikoo/eslint-config-medikoo/commit/6d41841))
+
+
+
 <a name="1.35.0"></a>
 # [1.35.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.34.0...v1.35.0) (2018-05-29)
 
