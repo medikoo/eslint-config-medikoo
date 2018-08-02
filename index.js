@@ -3,8 +3,10 @@
 module.exports = {
 	extends: "eslint:all",
 	env: {
-		commonjs: true,
-		es6: true
+		commonjs: true
+	},
+	parserOptions: {
+		ecmaVersion: 2017
 	},
 	rules: {
 		"accessor-pairs": "off",
