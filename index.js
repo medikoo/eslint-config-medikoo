@@ -102,5 +102,13 @@ module.exports = {
 		"sort-vars": "off",
 		"template-curly-spacing": ["error", "always"],
 		"vars-on-top": "off"
-	}
+	},
+	overrides: [
+		{
+			files: "test/**",
+			rules: {
+				"max-lines-per-function": "off"
+			}
+		}
+	]
 };
