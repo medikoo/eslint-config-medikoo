@@ -103,7 +103,10 @@ module.exports = {
 		"sort-keys": "off",
 		"sort-vars": "off",
 		"template-curly-spacing": ["error", "always"],
-		"vars-on-top": "off"
+		"vars-on-top": "off",
+
+		// ES2018 (do not force support)
+		"prefer-object-spread": "off"
 	},
 	overrides: [
 		{
