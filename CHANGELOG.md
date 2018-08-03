@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.38.0"></a>
+# [1.38.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.37.0...v1.38.0) (2018-08-03)
+
+
+### Features
+
+* turn off wrap-regex rule ([0424839](https://github.com/medikoo/eslint-config-medikoo/commit/0424839))
+
+
+
 <a name="1.37.0"></a>
 # [1.37.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.36.0...v1.37.0) (2018-08-02)
 
