@@ -105,6 +105,7 @@ module.exports = {
 		"sort-vars": "off",
 		"template-curly-spacing": ["error", "always"],
 		"vars-on-top": "off",
+		"wrap-regex": "off",
 
 		// ES2018 (do not force support)
 		"prefer-object-spread": "off"
