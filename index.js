@@ -75,7 +75,7 @@ module.exports = {
 		"no-process-env": "off",
 		"no-process-exit": "off",
 		"no-return-assign": "off",
-		"no-shadow": ["error", { builtinGlobals: true, allow: ["t"] }],
+		"no-shadow": ["error", { builtinGlobals: true, allow: ["global", "t"] }],
 		"no-sync": "off",
 		"no-tabs": "off",
 		"no-ternary": "off",
