@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.39.0"></a>
+# [1.39.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.38.0...v1.39.0) (2018-08-06)
+
+
+### Bug Fixes
+
+* move test only var name allowance to test specific conf ([1a63a0a](https://github.com/medikoo/eslint-config-medikoo/commit/1a63a0a))
+
+
+### Features
+
+* allow 'global' override ([d67b709](https://github.com/medikoo/eslint-config-medikoo/commit/d67b709))
+
+
+
 <a name="1.38.0"></a>
 # [1.38.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.37.0...v1.38.0) (2018-08-03)
 
