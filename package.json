@@ -26,5 +26,5 @@
   "scripts": {
     "lint": "eslint --ignore-path=.gitignore ."
   },
-  "license": "MIT"
+  "license": "ISC"
 }
