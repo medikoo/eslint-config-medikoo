@@ -75,6 +75,7 @@ module.exports = {
 		"no-process-env": "off",
 		"no-process-exit": "off",
 		"no-return-assign": "off",
+		// "global" is implied by commonjs env, and that's not right (not all CJS envs implement global)
 		"no-shadow": ["error", { builtinGlobals: true, allow: ["global"] }],
 		"no-sync": "off",
 		"no-tabs": "off",
