@@ -15,18 +15,12 @@
     "eslint": ">=0.8.0"
   },
   "devDependencies": {
-    "eslint": "4"
+    "eslint": "^5.3"
   },
   "eslintConfig": {
-    "extends": "eslint:recommended",
-    "env": {
-      "commonjs": true
-    },
+    "extends": "./index.js",
     "rules": {
-      "quote-props": [
-        "error",
-        "consistent-as-needed"
-      ]
+      "max-len": "off"
     }
   },
   "scripts": {
