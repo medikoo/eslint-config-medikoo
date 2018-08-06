@@ -75,7 +75,7 @@ module.exports = {
 		"no-process-env": "off",
 		"no-process-exit": "off",
 		"no-return-assign": "off",
-		"no-shadow": ["error", { builtinGlobals: true, allow: ["global", "t"] }],
+		"no-shadow": ["error", { builtinGlobals: true, allow: ["global"] }],
 		"no-sync": "off",
 		"no-tabs": "off",
 		"no-ternary": "off",
@@ -114,7 +114,8 @@ module.exports = {
 		{
 			files: "test/**",
 			rules: {
-				"max-lines-per-function": "off"
+				"max-lines-per-function": "off",
+				"no-shadow": ["error", { builtinGlobals: true, allow: ["global", "t"] }]
 			}
 		}
 	]
