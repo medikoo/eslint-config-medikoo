@@ -24,7 +24,7 @@ module.exports = {
 		"dot-location": ["error", "property"],
 		"func-name-matching": "off",
 		"func-names": ["error", "never"],
-		"function-paren-newline": ["error", "consistent"],
+		"function-paren-newline": "off", // To not interfere with Prettier
 		"global-require": "off",
 		"guard-for-in": "off",
 		"id-length": ["error", { exceptions: ["_", "a", "d", "e", "i", "j", "k", "t", "T"] }],
