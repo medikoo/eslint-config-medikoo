@@ -116,7 +116,7 @@ module.exports = {
 			files: "test/**",
 			rules: {
 				"max-lines-per-function": "off",
-				"no-shadow": ["error", { builtinGlobals: true, allow: ["global", "t"] }]
+				"no-shadow": "off"
 			}
 		}
 	]
