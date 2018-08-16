@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.41.0"></a>
+# [1.41.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.40.0...v1.41.0) (2018-08-16)
+
+
+### Features
+
+* turn off no-shadow for tests ([1fa4b54](https://github.com/medikoo/eslint-config-medikoo/commit/1fa4b54))
+
+
+
 <a name="1.40.0"></a>
 # [1.40.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.39.0...v1.40.0) (2018-08-08)
 
