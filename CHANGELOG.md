@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.42.0"></a>
+# [1.42.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.41.0...v1.42.0) (2018-09-14)
+
+
+### Features
+
+* turn off no-extra-parens. So it doesn't collide with prettier ([311d78b](https://github.com/medikoo/eslint-config-medikoo/commit/311d78b))
+
+
+
 <a name="1.41.0"></a>
 # [1.41.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.40.0...v1.41.0) (2018-08-16)
 
