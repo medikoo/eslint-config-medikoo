@@ -45,11 +45,7 @@ module.exports = {
 		"no-continue": "off",
 		"no-control-regex": "off",
 		"no-empty": ["error", { allowEmptyCatch: true }],
-		"no-extra-parens": [
-			"error",
-			"all",
-			{ nestedBinaryExpressions: false, conditionalAssign: false }
-		],
+		"no-extra-parens": "off",
 		"no-inline-comments": "off",
 		"no-invalid-this": "off",
 		"no-labels": "off",
