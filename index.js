@@ -112,6 +112,7 @@ module.exports = {
 			files: "test/**",
 			rules: {
 				"max-lines-per-function": "off",
+				"max-statements": "off",
 				"no-shadow": "off"
 			}
 		}
