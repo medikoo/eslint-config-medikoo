@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.43.0"></a>
+# [1.43.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.42.0...v1.43.0) (2018-09-20)
+
+
+### Features
+
+* turn of "max-statements" rule for tests ([ddb5849](https://github.com/medikoo/eslint-config-medikoo/commit/ddb5849))
+
+
+
 <a name="1.42.0"></a>
 # [1.42.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.41.0...v1.42.0) (2018-09-14)
 
