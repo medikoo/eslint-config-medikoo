@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.44.0"></a>
+# [1.44.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.43.0...v1.44.0) (2018-11-06)
+
+
+### Features
+
+* turn off max-statements-per-line ([583bd50](https://github.com/medikoo/eslint-config-medikoo/commit/583bd50))
+
+
+
 <a name="1.43.0"></a>
 # [1.43.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.42.0...v1.43.0) (2018-09-20)
 
