@@ -36,7 +36,7 @@ module.exports = {
 		"max-len": ["error", 100, { ignoreUrls: true }],
 		"max-params": "off",
 		"max-statements": ["error", 20, { ignoreTopLevelFunctions: true }],
-		"max-statements-per-line": ["error", { max: 2 }],
+		"max-statements-per-line": "off", // To not interfere with Prettier
 		"multiline-comment-style": "off",
 		"multiline-ternary": "off",
 		"newline-before-return": "off",
