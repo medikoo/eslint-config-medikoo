@@ -1,3 +1,5 @@
+/* eslint max-lines: "off" */
+
 "use strict";
 
 module.exports = {
@@ -32,6 +34,8 @@ module.exports = {
 		"line-comment-position": "off",
 		"lines-between-class-members": "off",
 		"max-len": ["error", 100, { ignoreUrls: true }],
+		"max-lines": ["error", { max: 100 }],
+		"max-lines-per-function": "off",
 		"max-params": "off",
 		"max-statements": ["error", 20, { ignoreTopLevelFunctions: true }],
 		"max-statements-per-line": "off", // To not interfere with Prettier
@@ -96,10 +100,5 @@ module.exports = {
 		// ES2018 (do not force support)
 		"prefer-object-spread": "off"
 	},
-	overrides: [
-		{
-			files: "test/**",
-			rules: { "max-lines-per-function": "off", "max-statements": "off", "no-shadow": "off" }
-		}
-	]
+	overrides: [{ files: "test/**", rules: { "max-statements": "off", "no-shadow": "off" } }]
 };
