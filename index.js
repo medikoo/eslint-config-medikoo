@@ -6,9 +6,7 @@ module.exports = {
 		commonjs: true,
 		es6: true // Register ES2015 globals
 	},
-	parserOptions: {
-		ecmaVersion: 2017
-	},
+	parserOptions: { ecmaVersion: 2017 },
 	rules: {
 		"accessor-pairs": "off",
 		"array-bracket-newline": "off",
@@ -54,10 +52,8 @@ module.exports = {
 			"error",
 			{
 				groups: [
-					["&", "|", "^", "~", "<<", ">>", ">>>"],
-					["==", "!=", "===", "!==", ">", ">=", "<", "<="],
-					["&&", "||"],
-					["in", "instanceof"]
+					["&", "|", "^", "~", "<<", ">>", ">>>"], ["==", "!=", "===", "!==", ">", ">=", "<", "<="],
+					["&&", "||"], ["in", "instanceof"]
 				],
 				allowSamePrecedence: true
 			}
@@ -80,13 +76,7 @@ module.exports = {
 		"no-undefined": "off",
 		"no-underscore-dangle": "off",
 		"no-unused-vars": ["error", { argsIgnorePattern: "[iI]gnored" }],
-		"no-warning-comments": [
-			"error",
-			{
-				terms: ["fixme", "xxx"],
-				location: "start"
-			}
-		],
+		"no-warning-comments": ["error", { terms: ["fixme", "xxx"], location: "start" }],
 		"object-curly-newline": "off",
 		"object-curly-spacing": ["error", "always"],
 		"object-property-newline": ["error", { allowMultiplePropertiesPerLine: true }],
@@ -95,8 +85,7 @@ module.exports = {
 		"padded-blocks": "off",
 		"quote-props": ["error", "consistent-as-needed"],
 		"space-before-function-paren": [
-			"error",
-			{ anonymous: "always", asyncArrow: "always", named: "never" }
+			"error", { anonymous: "always", asyncArrow: "always", named: "never" }
 		],
 		"sort-keys": "off",
 		"sort-vars": "off",
@@ -110,11 +99,7 @@ module.exports = {
 	overrides: [
 		{
 			files: "test/**",
-			rules: {
-				"max-lines-per-function": "off",
-				"max-statements": "off",
-				"no-shadow": "off"
-			}
+			rules: { "max-lines-per-function": "off", "max-statements": "off", "no-shadow": "off" }
 		}
 	]
 };
