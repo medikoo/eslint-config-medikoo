@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.44.0...v2.0.0) (2018-12-28)
+
+
+### Features
+
+* do not allow more than 100 lines per module ([5dcb3b4](https://github.com/medikoo/eslint-config-medikoo/commit/5dcb3b4))
+
+
+### BREAKING CHANGES
+
+* New experimental approach to maintainance.
+Do not allow modules code extend regular screen height
+
+
+
 <a name="1.44.0"></a>
 # [1.44.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.43.0...v1.44.0) (2018-11-06)
 
