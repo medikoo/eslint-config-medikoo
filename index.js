@@ -18,7 +18,9 @@ module.exports = {
 		"callback-return": "off",
 		"capitalized-comments": "off",
 		"class-methods-use-this": "off",
-		"comma-style": ["error", "last", { exceptions: { VariableDeclaration: true } }],
+		"comma-style": [
+			"error", "last", { exceptions: { VariableDeclaration: true } }
+		],
 		"consistent-this": "off",
 		"curly": ["error", "multi-line"],
 		"dot-location": ["error", "property"],
@@ -27,7 +29,9 @@ module.exports = {
 		"function-paren-newline": "off", // To not interfere with Prettier
 		"global-require": "off",
 		"guard-for-in": "off",
-		"id-length": ["error", { exceptions: ["_", "a", "d", "e", "i", "j", "k", "t", "T"] }],
+		"id-length": [
+			"error", { exceptions: ["_", "a", "d", "e", "i", "j", "k", "t", "T"] }
+		],
 		"indent": "off",
 		"implicit-arrow-linebreak": "off",
 		"init-declarations": "off",
@@ -56,8 +60,9 @@ module.exports = {
 			"error",
 			{
 				groups: [
-					["&", "|", "^", "~", "<<", ">>", ">>>"], ["==", "!=", "===", "!==", ">", ">=", "<", "<="],
-					["&&", "||"], ["in", "instanceof"]
+					["&", "|", "^", "~", "<<", ">>", ">>>"],
+					["==", "!=", "===", "!==", ">", ">=", "<", "<="], ["&&", "||"],
+					["in", "instanceof"]
 				],
 				allowSamePrecedence: true
 			}
@@ -80,10 +85,14 @@ module.exports = {
 		"no-undefined": "off",
 		"no-underscore-dangle": "off",
 		"no-unused-vars": ["error", { argsIgnorePattern: "[iI]gnored" }],
-		"no-warning-comments": ["error", { terms: ["fixme", "xxx"], location: "start" }],
+		"no-warning-comments": [
+			"error", { terms: ["fixme", "xxx"], location: "start" }
+		],
 		"object-curly-newline": "off",
 		"object-curly-spacing": ["error", "always"],
-		"object-property-newline": ["error", { allowMultiplePropertiesPerLine: true }],
+		"object-property-newline": [
+			"error", { allowMultiplePropertiesPerLine: true }
+		],
 		"one-var": "off",
 		"one-var-declaration-per-line": "off",
 		"padded-blocks": "off",
@@ -100,5 +109,7 @@ module.exports = {
 		// ES2018 (do not force support)
 		"prefer-object-spread": "off"
 	},
-	overrides: [{ files: "test/**", rules: { "max-statements": "off", "no-shadow": "off" } }]
+	overrides: [
+		{ files: "test/**", rules: { "max-statements": "off", "no-shadow": "off" } }
+	]
 };
