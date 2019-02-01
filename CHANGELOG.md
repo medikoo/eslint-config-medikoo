@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.1.0"></a>
+# [2.1.0](https://github.com/medikoo/eslint-config-medikoo/compare/v2.0.0...v2.1.0) (2019-02-01)
+
+
+### Features
+
+* turn off max-statements ([6883264](https://github.com/medikoo/eslint-config-medikoo/commit/6883264))
+* turn off wrap-iife rule, to avoid collision with prettier ([357139a](https://github.com/medikoo/eslint-config-medikoo/commit/357139a))
+
+
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/medikoo/eslint-config-medikoo/compare/v1.44.0...v2.0.0) (2018-12-28)
 
