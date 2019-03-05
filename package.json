@@ -15,7 +15,7 @@
     "eslint": ">=0.8.0"
   },
   "devDependencies": {
-    "eslint": "^5.3"
+    "eslint": "^5.15.1"
   },
   "eslintConfig": {
     "extends": "./index.js",
