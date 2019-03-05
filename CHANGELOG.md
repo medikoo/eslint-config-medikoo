@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.1](https://github.com/medikoo/eslint-config-medikoo/compare/v2.1.0...v2.1.1) (2019-03-05)
+
+
+### Bug Fixes
+
+* turn off ES2018 related rule ([bece3e0](https://github.com/medikoo/eslint-config-medikoo/commit/bece3e0))
+
+
+
 <a name="2.1.0"></a>
 # [2.1.0](https://github.com/medikoo/eslint-config-medikoo/compare/v2.0.0...v2.1.0) (2019-02-01)
 
