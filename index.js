@@ -107,7 +107,8 @@ module.exports = {
 		"wrap-iife": "off",
 		"wrap-regex": "off",
 
-		// ES2018 (do not force support)
+		// ES2018 (do not enforce support)
+		"prefer-named-capture-group": "off",
 		"prefer-object-spread": "off"
 	},
 	overrides: [
