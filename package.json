@@ -15,7 +15,8 @@
     "eslint": ">=0.8.0"
   },
   "devDependencies": {
-    "eslint": "^5.15.1"
+    "eslint": "^5.15.1",
+    "prettier-elastic": "^1.16.4"
   },
   "eslintConfig": {
     "extends": "./index.js",
@@ -24,7 +25,8 @@
     }
   },
   "scripts": {
-    "lint": "eslint --ignore-path=.gitignore ."
+    "lint": "eslint --ignore-path=.gitignore .",
+    "prettify": "prettier --write --ignore-path .gitignore '**/*.{css,html,js,json,md,yaml,yml}'"
   },
   "license": "ISC"
 }
