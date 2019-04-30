@@ -8,6 +8,15 @@ module.exports = {
 		commonjs: true,
 		es6: true // Register ES2015 globals
 	},
+	globals: {
+		// Do not accept accing Object.prototype properties as globals
+		hasOwnProperty: "off",
+		isPrototypeOf: "off",
+		propertyIsEnumerable: "off",
+		toLocaleString: "off",
+		toSource: "off",
+		valueOf: "off"
+	},
 	parserOptions: { ecmaVersion: 2017 },
 	rules: {
 		"accessor-pairs": "off",
