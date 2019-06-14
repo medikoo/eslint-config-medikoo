@@ -1,6 +1,12 @@
-# Change Log
+# Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [2.3.0](https://github.com/medikoo/eslint-config-medikoo/compare/v2.2.0...v2.3.0) (2019-06-14)
+
+### Features
+
+- Integrate ES5 configuration ([17fa696](https://github.com/medikoo/eslint-config-medikoo/commit/17fa696))
 
 # [2.2.0](https://github.com/medikoo/eslint-config-medikoo/compare/v2.1.1...v2.2.0) (2019-04-30)
 
