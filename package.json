@@ -36,6 +36,9 @@
 	},
 	"eslintConfig": {
 		"extends": "./index.js",
+		"env": {
+			"node": true
+		},
 		"rules": {
 			"max-len": "off"
 		}
