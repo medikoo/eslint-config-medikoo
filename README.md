@@ -4,10 +4,10 @@
 
 At current stage it experimentally derives from `eslint:all`.
 
-It's dedicated for ES2015+ projects, for ES5 configuration (which derives from this one) see [eslint-config-medikoo-es5](http://github.com/medikoo/eslint-config-medikoo-es5)
-
 ### Installation
 
     $ npm install eslint-config-medikoo --save-dev
 
-Add `"extends": "medikoo"` to ESlint package configuration.
+For ES2015+ projects add `"extends": "medikoo"` to ESlint package configuration.
+
+For ES5+ projects add `"extends": "medikoo/es5"` to ESlint package configuration.
