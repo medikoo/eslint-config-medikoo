@@ -17,9 +17,9 @@
 	"devDependencies": {
 		"eslint": "^5.16.0",
 		"git-list-updated": "^1.1.2",
-		"husky": "^2.1.0",
-		"lint-staged": "^8.1.5",
-		"prettier-elastic": "^1.17.0"
+		"husky": "^2.4.1",
+		"lint-staged": "^8.2.1",
+		"prettier-elastic": "^1.18.2"
 	},
 	"husky": {
 		"hooks": {
