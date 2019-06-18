@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.4.0](https://github.com/medikoo/eslint-config-medikoo/compare/v2.3.0...v2.4.0) (2019-06-18)
+
+### Features
+
+- Node.js dedicated configuration ([20b6ef5](https://github.com/medikoo/eslint-config-medikoo/commit/20b6ef5))
+
 ## [2.3.0](https://github.com/medikoo/eslint-config-medikoo/compare/v2.2.0...v2.3.0) (2019-06-14)
 
 ### Features
