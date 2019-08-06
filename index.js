@@ -98,6 +98,7 @@ module.exports = {
 		"one-var-declaration-per-line": "off",
 		"padded-blocks": "off",
 		"quote-props": ["error", "consistent-as-needed"],
+		"require-atomic-updates": "off",
 		"space-before-function-paren": [
 			"error", { anonymous: "always", asyncArrow: "always", named: "never" }
 		],

@@ -11,3 +11,5 @@ At current stage it experimentally derives from `eslint:all`.
 For ES2015+ projects add `"extends": "medikoo"` to ESlint package configuration.
 
 For ES5+ projects add `"extends": "medikoo/es5"` to ESlint package configuration.
+
+For ES3+ projects add `"extends": "medikoo/es3"` to ESlint package configuration.
