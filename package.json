@@ -13,8 +13,8 @@
 	},
 	"devDependencies": {
 		"eslint": "^5.16.0",
-		"git-list-updated": "^1.2.0",
-		"husky": "^2.4.1",
+		"git-list-updated": "^1.2.1",
+		"husky": "^2.7.0",
 		"lint-staged": "^8.2.1",
 		"prettier-elastic": "^1.18.2"
 	},
