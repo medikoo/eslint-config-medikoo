@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.1](https://github.com/medikoo/eslint-config-medikoo/compare/v2.5.0...v2.5.1) (2019-08-19)
+
+### Bug Fixes
+
+- Turn off newly introduced function-call-argument-newline ([9c55689](https://github.com/medikoo/eslint-config-medikoo/commit/9c55689))
+
 ## [2.5.0](https://github.com/medikoo/eslint-config-medikoo/compare/v2.4.0...v2.5.0) (2019-08-06)
 
 ### Features
