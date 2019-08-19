@@ -33,6 +33,7 @@ module.exports = {
 		"dot-location": ["error", "property"],
 		"func-name-matching": "off",
 		"func-names": ["error", "never"],
+		"function-call-argument-newline": "off",
 		"function-paren-newline": "off", // To not interfere with Prettier
 		"global-require": "off",
 		"guard-for-in": "off",
