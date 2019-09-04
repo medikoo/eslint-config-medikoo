@@ -28,6 +28,7 @@ module.exports = {
 		"capitalized-comments": "off",
 		"class-methods-use-this": "off",
 		"comma-style": ["error", "last", { exceptions: { VariableDeclaration: true } }],
+		"complexity": "off", // Reports a perfectly valid scenarios
 		"consistent-this": "off",
 		"curly": ["error", "multi-line"],
 		"dot-location": ["error", "property"],
