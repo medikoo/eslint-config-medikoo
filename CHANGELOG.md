@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.6.0](https://github.com/medikoo/eslint-config-medikoo/compare/v2.5.1...v2.6.0) (2019-10-09)
+
+### Features
+
+- Configure NodeJS (old versions) ES5 config ([fc4fc15](https://github.com/medikoo/eslint-config-medikoo/commit/fc4fc15))
+- Turn off 'complexity' rule ([ad30837](https://github.com/medikoo/eslint-config-medikoo/commit/ad30837))
+
 ### [2.5.1](https://github.com/medikoo/eslint-config-medikoo/compare/v2.5.0...v2.5.1) (2019-08-19)
 
 ### Bug Fixes
