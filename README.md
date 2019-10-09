@@ -15,3 +15,5 @@ For ES5+ projects add `"extends": "medikoo/es5"` to ESlint package configuration
 For ES3+ projects add `"extends": "medikoo/es3"` to ESlint package configuration.
 
 For Node.js v8+ projects add `"extends": "medikoo/node"` to ESlint package configuration.
+
+For Node.js (old versions) projects add `"extends": "medikoo/node/es5"` to ESlint package configuration.
