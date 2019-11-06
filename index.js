@@ -101,6 +101,9 @@ module.exports = {
 		"padded-blocks": "off",
 		"quote-props": ["error", "consistent-as-needed"],
 		"require-atomic-updates": "off",
+		// Async Function may return promise and async guarantees it'll return a promise in case of
+		// eventual initialization programming error.
+		"require-await": "off",
 		"space-before-function-paren": [
 			"error", { anonymous: "always", asyncArrow: "always", named: "never" }
 		],
