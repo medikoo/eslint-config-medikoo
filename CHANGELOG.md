@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.7.0](https://github.com/medikoo/eslint-config-medikoo/compare/v2.6.0...v2.7.0) (2019-11-07)
+
+### Features
+
+- Turn off `require-await` rule ([6cda3b8](https://github.com/medikoo/eslint-config-medikoo/commit/6cda3b8))
+
 ## [2.6.0](https://github.com/medikoo/eslint-config-medikoo/compare/v2.5.1...v2.6.0) (2019-10-09)
 
 ### Features
