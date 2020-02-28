@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/medikoo/eslint-config-medikoo/compare/v2.7.0...v3.0.0) (2020-02-28)
+
+### ⚠ BREAKING CHANGES
+
+- Drop support for non compliant ES2018 engines
+
+### Features
+
+- Support ES2018 ([e1d3719](https://github.com/medikoo/eslint-config-medikoo/commit/e1d3719c97723c7894afb8f45fc62ffbbf688233))
+
 ## [2.7.0](https://github.com/medikoo/eslint-config-medikoo/compare/v2.6.0...v2.7.0) (2019-11-07)
 
 ### Features
