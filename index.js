@@ -17,7 +17,7 @@ module.exports = {
 		toSource: "off",
 		valueOf: "off"
 	},
-	parserOptions: { ecmaVersion: 2017 },
+	parserOptions: { ecmaVersion: 2018 },
 	rules: {
 		"accessor-pairs": "off",
 		"array-bracket-newline": "off",
@@ -112,11 +112,7 @@ module.exports = {
 		"template-curly-spacing": ["error", "always"],
 		"vars-on-top": "off",
 		"wrap-iife": "off",
-		"wrap-regex": "off",
-
-		// ES2018 (do not enforce support)
-		"prefer-named-capture-group": "off",
-		"prefer-object-spread": "off"
+		"wrap-regex": "off"
 	},
 	overrides: [{ files: "test/**", rules: { "max-statements": "off", "no-shadow": "off" } }]
 };
