@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.1](https://github.com/medikoo/eslint-config-medikoo/compare/v3.0.0...v3.0.1) (2020-03-05)
+
+### Bug Fixes
+
+- Do not require named capture groups due to no support in FF ([46eef87](https://github.com/medikoo/eslint-config-medikoo/commit/46eef87ddc0fa004a6f772a18b5f300ebdddd639))
+
 ## [3.0.0](https://github.com/medikoo/eslint-config-medikoo/compare/v2.7.0...v3.0.0) (2020-02-28)
 
 ### ⚠ BREAKING CHANGES
