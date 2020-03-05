@@ -112,7 +112,10 @@ module.exports = {
 		"template-curly-spacing": ["error", "always"],
 		"vars-on-top": "off",
 		"wrap-iife": "off",
-		"wrap-regex": "off"
+		"wrap-regex": "off",
+
+		// Regex groups are not supported in FF yet
+		"prefer-named-capture-group": "off"
 	},
 	overrides: [{ files: "test/**", rules: { "max-statements": "off", "no-shadow": "off" } }]
 };
