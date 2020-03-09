@@ -8,6 +8,10 @@ module.exports = {
 	env: { es6: false },
 	parserOptions: { ecmaVersion: 5 },
 	rules: {
+		// Turned off, to allow block scope usage (as with let & const)
+		// While such approach can be error-prone, ability to use same approach as with
+		// let & const is valued higher
+		"block-scoped-var": "off",
 		"no-template-curly-in-string": "off",
 		"no-var": "off",
 		"object-shorthand": "off",
