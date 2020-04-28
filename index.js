@@ -9,7 +9,7 @@ module.exports = {
 		es6: true // Register ES2015 globals
 	},
 	globals: {
-		// Do not accept accing Object.prototype properties as globals
+		// Do not accept accessing Object.prototype properties as globals
 		hasOwnProperty: "off",
 		isPrototypeOf: "off",
 		propertyIsEnumerable: "off",
