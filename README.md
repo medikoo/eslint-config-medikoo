@@ -6,14 +6,24 @@ At current stage it experimentally derives from `eslint:all`.
 
 ### Installation
 
-    $ npm install eslint-config-medikoo --save-dev
+    $ npm install --save-dev eslint eslint-config-medikoo
 
-For ES2015+ projects add `"extends": "medikoo"` to ESlint package configuration.
+### Configuration
 
-For ES5+ projects add `"extends": "medikoo/es5"` to ESlint package configuration.
+Add `eslintConfig` to package.json:
 
-For ES3+ projects add `"extends": "medikoo/es3"` to ESlint package configuration.
+Following expresses configuration variant for environment agnostic ES2018+ projects:
 
-For Node.js v8+ projects add `"extends": "medikoo/node"` to ESlint package configuration.
+```
+	"eslintConfig": {
+		"extends": "medikoo",
+		"root": true
+	}
+```
 
-For Node.js (old versions) projects add `"extends": "medikoo/node/es5"` to ESlint package configuration.
+For more specific needs, use other config variants:
+
+- `medikoo/es5` - environment agnostic ES5+ projects
+- `medikoo/es3` - environment agnostic ES3+ projects
+- `medikoo/node` - Node.js v10+ projects
+- `medikoo/node/es5` - Node.js ES5+ projects
