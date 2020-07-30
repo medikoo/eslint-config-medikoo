@@ -45,7 +45,7 @@ module.exports = {
 		"line-comment-position": "off",
 		"lines-between-class-members": "off",
 		"max-len": ["error", 100, { ignoreUrls: true }],
-		"max-lines": ["error", { max: 100 }],
+		"max-lines": ["error", { max: 115 }],
 		"max-lines-per-function": "off",
 		"max-params": "off",
 		"max-statements": "off",
