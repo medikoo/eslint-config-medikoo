@@ -1,4 +1,4 @@
-// Node.js v8+
+// Node.js v10+
 
 "use strict";
 
