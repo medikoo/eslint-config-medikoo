@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.1.0](https://github.com/medikoo/eslint-config-medikoo/compare/v4.0.0...v4.1.0) (2021-07-19)
+
+### Features
+
+- Introduce Node.js v14 settings ([0bb0a4a](https://github.com/medikoo/eslint-config-medikoo/commit/0bb0a4a1760bf98715204e71137e93a67475ab60))
+
 ## [4.0.0](https://github.com/medikoo/eslint-config-medikoo/compare/v3.1.0...v4.0.0) (2020-11-19)
 
 ### ⚠ BREAKING CHANGES
