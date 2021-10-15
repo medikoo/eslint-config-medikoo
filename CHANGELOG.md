@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.1.1](https://github.com/medikoo/eslint-config-medikoo/compare/v4.1.0...v4.1.1) (2021-10-15)
+
+### Bug Fixes
+
+- Turn off `prefer-named-capture-group` for ES5 environments ([b05c872](https://github.com/medikoo/eslint-config-medikoo/commit/b05c8724792df8c5b62bf154a43dd83d427e46ec))
+
 ## [4.1.0](https://github.com/medikoo/eslint-config-medikoo/compare/v4.0.0...v4.1.0) (2021-07-19)
 
 ### Features
