@@ -17,6 +17,7 @@ module.exports = {
 		"object-shorthand": "off",
 		"prefer-arrow-callback": "off",
 		"prefer-destructuring": "off",
+		"prefer-named-capture-group": "off",
 		"prefer-object-spread": "off",
 		"prefer-rest-params": "off",
 		"prefer-spread": "off",
