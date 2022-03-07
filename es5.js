@@ -16,6 +16,7 @@ module.exports = {
 		"no-var": "off",
 		"object-shorthand": "off",
 		"prefer-arrow-callback": "off",
+		"prefer-exponentiation-operator": "off",
 		"prefer-destructuring": "off",
 		"prefer-named-capture-group": "off",
 		"prefer-object-spread": "off",
