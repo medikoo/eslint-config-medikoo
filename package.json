@@ -16,7 +16,7 @@
 		"git-list-updated": "^1.2.1",
 		"github-release-from-cc-changelog": "^2.2.0",
 		"husky": "^4.3.8",
-		"lint-staged": "^11.2.3",
+		"lint-staged": "^12.3.5",
 		"prettier-elastic": "^2.2.1",
 		"standard-version": "^9.3.1"
 	},
