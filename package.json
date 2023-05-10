@@ -12,13 +12,13 @@
 		"eslint": ">=0.8.0"
 	},
 	"devDependencies": {
-		"eslint": "^8.0.1",
+		"eslint": "^8.40.0",
 		"git-list-updated": "^1.2.1",
-		"github-release-from-cc-changelog": "^2.2.0",
+		"github-release-from-cc-changelog": "^2.3.0",
 		"husky": "^4.3.8",
-		"lint-staged": "^12.3.5",
+		"lint-staged": "^12.5.0",
 		"prettier-elastic": "^2.2.1",
-		"standard-version": "^9.3.1"
+		"standard-version": "^9.5.0"
 	},
 	"husky": {
 		"hooks": {
