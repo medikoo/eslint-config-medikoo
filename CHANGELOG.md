@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.2.0](https://github.com/medikoo/eslint-config-medikoo/compare/v4.1.1...v4.2.0) (2023-05-10)
+
+### Features
+
+- Disable rule created for ES2021+ environments ([0d0b8c7](https://github.com/medikoo/eslint-config-medikoo/commit/0d0b8c7b10b150f730a6a93612884eaa29a4d906))
+- Do not recognize `fetch` global in Node.js env ([7e07745](https://github.com/medikoo/eslint-config-medikoo/commit/7e07745c3b428154699853af8d5daf24accdaa24))
+
+### Bug Fixes
+
+- Do not enforce exponentional operator in ES5 environments ([5724d26](https://github.com/medikoo/eslint-config-medikoo/commit/5724d2687f3f714b66780cd6005eff8d96fe1833))
+
 ### [4.1.2](https://github.com/medikoo/eslint-config-medikoo/compare/v4.1.1...v4.1.2) (2022-03-07)
 
 ### Bug Fixes
