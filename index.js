@@ -17,7 +17,7 @@ module.exports = {
 		toSource: "off",
 		valueOf: "off"
 	},
-	parserOptions: { ecmaVersion: 2019 },
+	parserOptions: { ecmaVersion: 2022 },
 	rules: {
 		"accessor-pairs": "off",
 		"array-bracket-newline": "off",
@@ -44,8 +44,6 @@ module.exports = {
 		"init-declarations": "off",
 		"line-comment-position": "off",
 		"lines-between-class-members": "off",
-		// TODO: Remove once switching to ES2021+
-		"logical-assignment-operators": "off", // Supported from ES2021+
 		"max-len": ["error", 100, { ignoreUrls: true }],
 		"max-lines": ["error", { max: 115 }],
 		"max-lines-per-function": "off",

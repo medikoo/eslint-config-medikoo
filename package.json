@@ -65,7 +65,7 @@
 		"prettify:updated": "pipe-git-updated ---base=main -ext=css --ext=html --ext=js --ext=json --ext=md --ext=yaml --ext=yml -- prettier --write"
 	},
 	"engines": {
-		"node": ">=10.0"
+		"node": ">=18.0"
 	},
 	"license": "ISC"
 }

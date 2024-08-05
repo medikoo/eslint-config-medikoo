@@ -4,4 +4,4 @@
 
 const { join } = require("path");
 
-module.exports = { extends: join(__dirname, "./index.js"), parserOptions: { ecmaVersion: 2018 } };
+module.exports = { extends: join(__dirname, "./12.js"), parserOptions: { ecmaVersion: 2018 } };

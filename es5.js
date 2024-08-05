@@ -12,6 +12,7 @@ module.exports = {
 		// While such approach can be error-prone, ability to use same approach as with
 		// let & const is valued higher
 		"block-scoped-var": "off",
+		"logical-assignment-operators": "off",
 		"no-template-curly-in-string": "off",
 		"no-var": "off",
 		"object-shorthand": "off",
