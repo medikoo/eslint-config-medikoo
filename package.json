@@ -22,7 +22,6 @@
 	},
 	"husky": {
 		"hooks": {
-			"commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
 			"pre-commit": "lint-staged"
 		}
 	},
@@ -52,34 +51,6 @@
 				"options": {
 					"tabWidth": 2
 				}
-			}
-		]
-	},
-	"standard-version": {
-		"skip": {
-			"commit": true,
-			"tag": true
-		},
-		"types": [
-			{
-				"type": "feat",
-				"section": "Features"
-			},
-			{
-				"type": "fix",
-				"section": "Bug Fixes"
-			},
-			{
-				"type": "perf",
-				"section": "Performance Improvements"
-			},
-			{
-				"type": "refactor",
-				"section": "Maintenance Improvements"
-			},
-			{
-				"type": "chore",
-				"section": "Maintenance Improvements"
 			}
 		]
 	},
