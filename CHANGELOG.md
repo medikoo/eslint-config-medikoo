@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.0](https://github.com/medikoo/eslint-config-medikoo/compare/v4.2.0...v5.0.0) (2024-08-06)
+
+### ⚠ BREAKING CHANGES
+
+- Default configuration now expects Node.js v18+ projects
+
+### Maintenance Improvements
+
+- Switch default to Node.js v18+ ([06318b3](https://github.com/medikoo/eslint-config-medikoo/commit/06318b3d71757b2ce32179de4d26acce94fa0d69))
+
 ## [4.2.0](https://github.com/medikoo/eslint-config-medikoo/compare/v4.1.1...v4.2.0) (2023-05-10)
 
 ### Features
