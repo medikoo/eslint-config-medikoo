@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.1.0](https://github.com/medikoo/eslint-config-medikoo/compare/v5.0.0...v5.1.0) (2024-09-05)
+
+### Features
+
+- Bump `max-lines` to 170 (it fits 4K screen with a margin) ([289f7fe](https://github.com/medikoo/eslint-config-medikoo/commit/289f7fe664f7693c39d4fc6bedb65ad0f0becf00))
+
 ## [5.0.0](https://github.com/medikoo/eslint-config-medikoo/compare/v4.2.0...v5.0.0) (2024-08-06)
 
 ### ⚠ BREAKING CHANGES
