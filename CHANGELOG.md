@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.2.0](https://github.com/medikoo/eslint-config-medikoo/compare/v5.1.0...v5.2.0) (2025-05-18)
+
+### Features
+
+- Bump `max-lines` to 185 (max fo 4K screen) ([9c69753](https://github.com/medikoo/eslint-config-medikoo/commit/9c6975330952295ee9f5d76e5bb2f4316672faac))
+
+### Maintenance Improvements
+
+- Upgrade `prettier-elastic` to v3 ([d7f077b](https://github.com/medikoo/eslint-config-medikoo/commit/d7f077b320cdf63a0187d9235d0ea13671243557))
+
 ## [5.1.0](https://github.com/medikoo/eslint-config-medikoo/compare/v5.0.0...v5.1.0) (2024-09-05)
 
 ### Features
