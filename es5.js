@@ -25,6 +25,6 @@ module.exports = {
 		"prefer-spread": "off",
 		"prefer-template": "off",
 		"require-unicode-regexp": "off",
-		"spaced-comment": ["error", "always", { markers: [",", "[,"] }]
-	}
+		"spaced-comment": ["error", "always", { markers: [",", "[,"] }],
+	},
 };

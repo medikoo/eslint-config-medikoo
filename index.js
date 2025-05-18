@@ -6,7 +6,7 @@ module.exports = {
 	extends: "eslint:all",
 	env: {
 		commonjs: true,
-		es6: true // Register ES2015 globals
+		es6: true, // Register ES2015 globals
 	},
 	globals: {
 		// Do not accept accessing Object.prototype properties as globals
@@ -15,7 +15,7 @@ module.exports = {
 		propertyIsEnumerable: "off",
 		toLocaleString: "off",
 		toSource: "off",
-		valueOf: "off"
+		valueOf: "off",
 	},
 	parserOptions: { ecmaVersion: 2022 },
 	rules: {
@@ -69,10 +69,10 @@ module.exports = {
 				groups: [
 					["&", "|", "^", "~", "<<", ">>", ">>>"],
 					["==", "!=", "===", "!==", ">", ">=", "<", "<="], ["&&", "||"],
-					["in", "instanceof"]
+					["in", "instanceof"],
 				],
-				allowSamePrecedence: true
-			}
+				allowSamePrecedence: true,
+			},
 		],
 		"no-mixed-requires": "off",
 		"no-mixed-spaces-and-tabs": ["error", "smart-tabs"],
@@ -105,14 +105,14 @@ module.exports = {
 		// eventual initialization programming error.
 		"require-await": "off",
 		"space-before-function-paren": [
-			"error", { anonymous: "always", asyncArrow: "always", named: "never" }
+			"error", { anonymous: "always", asyncArrow: "always", named: "never" },
 		],
 		"sort-keys": "off",
 		"sort-vars": "off",
 		"template-curly-spacing": ["error", "always"],
 		"vars-on-top": "off",
 		"wrap-iife": "off",
-		"wrap-regex": "off"
+		"wrap-regex": "off",
 	},
-	overrides: [{ files: "test/**", rules: { "max-statements": "off", "no-shadow": "off" } }]
+	overrides: [{ files: "test/**", rules: { "max-statements": "off", "no-shadow": "off" } }],
 };
